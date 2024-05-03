@@ -393,6 +393,14 @@
         "chainId": 137,
         "decimals": "",
         "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/12774.png"
+      },
+      {
+        "name": "Plata",
+        "symbol": "PLT",
+        "address": "0xc298812164bd558268f51cc6e3b8b5daaf0b6341",
+        "chainId": 137,
+        "decimals": "",
+        "logoURI": "https://plata.ie/images/platatoken200px.png"
       }
     ]
   }
